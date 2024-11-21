@@ -1,0 +1,7 @@
+flask
+google-generativeai
+autogen
+flask_cors
+streamlit
+opencv-python
+Pillow
