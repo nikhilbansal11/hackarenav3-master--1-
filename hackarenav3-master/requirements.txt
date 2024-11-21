@@ -1,0 +1,8 @@
+opencv-python
+google-generativeai
+flask
+flask-cors
+autogen
+Pillow
+requests
+gunicorn
