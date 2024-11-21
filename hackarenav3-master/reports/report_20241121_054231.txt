@@ -1,0 +1,12 @@
+0. **Disease Name:** Suspected Neoplastic Intracranial Mass (Right Frontoparietal Lobe)
+
+1. **Clinical Findings:**  Neuroimaging (CT scan) reveals a large (3 x 4 x 5 cm), well-circumscribed, hyperdense mass in the right frontoparietal lobe.  Significant mass effect is present, including a 5 mm midline shift to the left and surrounding edema with effacement of the right lateral ventricle.  The right lateral ventricle is compressed, but there is no intraventricular hemorrhage or hydrocephalus.  The remainder of the brain parenchyma appears normal.
+
+2. **Impression:** The imaging findings are highly suggestive of a space-occupying lesion in the right frontoparietal lobe, most likely representing a neoplastic process such as a high-grade glioma or metastasis.  A brain abscess is considered less likely but cannot be definitively excluded based on CT findings alone.
+
+3. **Recommendations:**  Urgent MRI of the brain with and without contrast is recommended for further characterization of the lesion.  A tissue biopsy may be necessary for definitive diagnosis and to guide treatment planning.  Neurological consultation is advised for assessment of clinical symptoms and management.
+
+4. **Summary:**  CT scan demonstrates a large hyperdense mass in the right frontoparietal lobe causing significant mass effect and edema.  Differential diagnosis includes high-grade glioma and metastasis, necessitating further investigation with MRI and potential biopsy for definitive diagnosis and treatment planning.
+
+
+TERMINATE

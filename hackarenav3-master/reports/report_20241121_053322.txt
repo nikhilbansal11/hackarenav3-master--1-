@@ -1,0 +1,27 @@
+```text
+0. Disease Name: Acute Epidural Hematoma (EDH)
+
+1. Clinical Findings:
+
+* **Neuroimaging (CT Head):**  A comparative CT head study demonstrates a significant progression of findings. Image (b) shows relatively normal brain parenchyma with minor, non-specific findings. Image (d) reveals a large, irregular, lenticular-shaped hyperdense area in the right parietal lobe, consistent with acute intracranial hemorrhage. This area exhibits significant mass effect with midline shift to the left and surrounding brain edema.
+
+* **Clinical Presentation (Inferred):**  The patient likely presents with symptoms consistent with increased intracranial pressure, such as altered mental status, headache, and possibly focal neurological deficits.  The severity of the findings suggests a significant neurological event.
+
+
+2. Impression:
+
+Acute epidural hematoma (EDH) in the right parietal lobe, causing significant mass effect and midline shift, indicative of acute intracranial hemorrhage and increased intracranial pressure.  The rapid progression between the two imaging studies supports an acute onset of the hemorrhage.
+
+
+3. Recommendations:
+
+Immediate neurosurgical consultation is warranted.  Urgent management, likely including surgical evacuation of the hematoma, is necessary to reduce intracranial pressure and prevent potentially life-threatening complications.  Close neurological monitoring and supportive care are crucial.
+
+
+4. Summary:
+
+CT head imaging reveals a right parietal acute epidural hematoma with significant mass effect and midline shift, consistent with acute intracranial hemorrhage requiring emergent neurosurgical intervention to mitigate life-threatening intracranial hypertension.  The lenticular shape of the hematoma on imaging is highly suggestive of this diagnosis.
+
+```
+
+TERMINATE

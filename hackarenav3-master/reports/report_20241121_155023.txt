@@ -1,0 +1,19 @@
+**Disease Name:** Suspected Intracerebral Hemorrhage (Hemorrhagic Stroke)
+
+**1. Clinical Findings:**
+
+Non-contrast computed tomography (NCCT) of the brain reveals a large, hyperdense mass in the right fronto-temporal region.  The mass exhibits irregular margins and is associated with significant surrounding edema.  A substantial mass effect is present, resulting in midline shift and marked compression of the right lateral ventricle.  The right hemisphere white matter demonstrates significant edema. The left hemisphere appears normal.
+
+**2. Impression:**
+
+The imaging findings are highly suggestive of a large intracerebral hematoma, most likely secondary to a hemorrhagic stroke.  However, other diagnoses, such as a brain tumor or abscess, cannot be definitively excluded based solely on the NCCT scan.  Further investigation with advanced imaging techniques (e.g., MRI with contrast) is crucial for definitive diagnosis and treatment planning.
+
+**3. Recommendations:**
+
+Immediate consultation with a neurosurgeon is recommended for evaluation and management.  Further imaging, specifically magnetic resonance imaging (MRI) with contrast, is urgently indicated to differentiate between intracerebral hemorrhage, tumor, or abscess and guide appropriate treatment strategies.  Close neurological monitoring and supportive care are necessary.
+
+**4. Summary:**
+
+NCCT demonstrates a large hyperdense mass in the right fronto-temporal region with significant mass effect, edema, and midline shift, strongly suggestive of an intracerebral hemorrhage.  Further imaging with MRI is warranted to confirm the diagnosis and guide appropriate therapeutic interventions.  Urgent neurosurgical consultation is recommended.
+
+TERMINATE

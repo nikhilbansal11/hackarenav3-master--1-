@@ -1,0 +1,24 @@
+**Disease Name:** Acute Intracranial Hematoma (likely Epidural or Subdural Hematoma)
+
+**1. Clinical Findings:**
+
+* **Neuroimaging (CT Head):**  A large, irregularly shaped, hypodense lesion is identified in the right parietal lobe. This lesion demonstrates significant mass effect, causing displacement of surrounding brain tissue and resulting in a midline shift.  One axial slice shows normal brain parenchyma, while another shows the aforementioned lesion.  Ventricular compression is suspected, though not definitively confirmed due to limited imaging slices. The hypodense nature of the lesion is highly suggestive of acute hemorrhage.  Compression and displacement of both white and gray matter are evident in the affected area.
+
+**2. Impression:**
+
+The CT head findings strongly suggest an acute intracranial hematoma, most likely either an epidural or subdural hematoma. The significant mass effect and midline shift indicate a potentially life-threatening condition requiring immediate neurosurgical intervention.  The precise type of hematoma cannot be definitively determined based solely on the limited CT images provided.  Further imaging and clinical evaluation are necessary for definitive diagnosis and surgical planning.
+
+**3. Recommendations:**
+
+* Immediate neurosurgical consultation.
+* Further neuroimaging (e.g., additional CT slices, MRI) to precisely delineate the hematoma location and subtype.
+* Close neurological monitoring, including assessment of Glasgow Coma Scale (GCS) and vital signs.
+*  Intravenous access and fluid management as clinically indicated.
+*  Preparation for potential surgical evacuation of the hematoma.
+
+
+**4. Summary:**
+
+CT head demonstrates a large, right parietal hypodense lesion with significant mass effect and midline shift, highly suggestive of an acute, potentially life-threatening intracranial hematoma necessitating urgent neurosurgical intervention and further imaging for definitive diagnosis and treatment planning.  The lesion's compression of surrounding brain parenchyma necessitates immediate clinical management to mitigate neurological sequelae.
+
+TERMINATE

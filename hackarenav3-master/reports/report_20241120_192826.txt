@@ -1,0 +1,29 @@
+Here's a formal medical report based on the provided image analysis text.  Note that I cannot access external websites or local files, so this report is based solely on the input text.  A real medical report would require access to the actual CT images.
+
+
+**Formal Medical Report**
+
+**Patient Name:** [Patient Name]
+**Patient ID:** [Patient ID]
+**Date of Examination:** [Date]
+
+**1. Clinical Findings:**
+
+Axial non-contrast CT of the brain reveals a large, right-sided epidural hematoma exhibiting a lenticular shape.  This hyperdense extra-axial collection causes significant mass effect with resultant midline shift to the left and compression of the ventricles.  The hematoma displaces and distorts the underlying right cerebral hemisphere parenchyma, compromising grey-white matter differentiation in the affected region.
+
+**2. Impression:**
+
+Right-sided epidural hematoma with significant mass effect and midline shift.  This is a neurosurgical emergency requiring immediate intervention.  Subdural hematoma is considered less likely given the lenticular shape and location of the observed collection.
+
+**3. Recommendations:**
+
+* Urgent neurosurgical consultation for immediate evaluation and surgical evacuation of the epidural hematoma.
+* Close neurological monitoring for signs of neurological deterioration.
+* Post-operative CT scan to assess the effectiveness of the surgical intervention and to evaluate for any residual hematoma or complications.
+
+**4. Summary:**
+
+Significant right-sided epidural hematoma causing mass effect and midline shift is evident on CT brain imaging.  The hematoma demonstrates compression of the ventricles and displacement of the right cerebral hemisphere.  This represents a life-threatening neurosurgical emergency.
+
+
+TERMINATE

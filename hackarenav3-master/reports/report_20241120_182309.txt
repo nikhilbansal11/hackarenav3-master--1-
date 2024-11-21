@@ -1,0 +1,31 @@
+Here's a formal medical report based on the provided image analysis:
+
+**Medical Report**
+
+**Patient Name:** [Patient Name]
+**Patient ID:** [Patient ID]
+**Date of Report:** October 26, 2023
+**Date of Scan:** [Date of Scan]
+
+**1. Clinical Findings:**
+
+Axial non-contrast CT images of the head reveal a large, irregularly shaped, right parietal depressed skull fracture.  Underlying this fracture is evidence of significant soft tissue swelling and intracranial hemorrhage, suggestive of an epidural or subdural hematoma. Anatomical structures involved include the right parietal bone, brain parenchyma, and surrounding soft tissues.
+
+
+**2. Impression:**
+
+Severe traumatic brain injury (TBI) secondary to a right parietal depressed skull fracture with associated intracranial hemorrhage (likely epidural or subdural hematoma).
+
+
+**3. Recommendations:**
+
+*   **Follow-up Studies:**  A CT angiography is recommended to evaluate for associated vascular injuries.  Further imaging may be necessary based on the patient's clinical presentation and neurological examination.
+*   **Clinical Correlation:** Immediate neurosurgical consultation is warranted for assessment of intracranial pressure and potential surgical intervention. Close neurological monitoring is crucial.
+
+
+**4. Summary:**
+
+Non-contrast CT demonstrates a severe TBI characterized by a large right parietal depressed skull fracture and significant intracranial hemorrhage, consistent with an epidural or subdural hematoma. Urgent neurosurgical evaluation and intervention are recommended given the severity of the findings.
+
+
+TERMINATE

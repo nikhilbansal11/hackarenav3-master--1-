@@ -1,0 +1,26 @@
+Here's a formal medical report based on the provided diagnosis of bilateral lacunar infarcts:
+
+**0. Disease Name:** Bilateral Lacunar Infarcts
+
+**1. Clinical Findings:**
+
+* Neuroimaging (CT scan) reveals two small, well-circumscribed hyperdense lesions in the bilateral basal ganglia, measuring approximately [Measure lesion size in mm] in size.
+* Absence of associated edema, mass effect, hemorrhage, or abnormality in the ventricles, brain parenchyma (including gray-white matter differentiation), skull, or extra-axial spaces.
+
+
+**2. Impression:**
+
+The most likely diagnosis is bilateral lacunar infarcts within the basal ganglia.  The characteristics of the lesions on CT—small size, location, lack of surrounding edema or mass effect—are consistent with this diagnosis.  The possibility of small, clinically insignificant hemorrhages cannot be entirely excluded, but is less probable given the imaging findings.
+
+**3. Recommendations:**
+
+* Complete neurological examination to assess for associated neurological deficits.
+* Further investigation into potential underlying vascular risk factors (e.g., hypertension, diabetes, hyperlipidemia).
+* Consideration of additional neuroimaging, such as MRI, for definitive confirmation of the diagnosis and assessment of lesion characteristics.
+
+**4. Summary:**
+
+Neuroimaging demonstrates bilateral lacunar infarcts within the basal ganglia, characterized by small, hyperdense lesions without significant mass effect or edema.  Further clinical and radiological evaluation is recommended to assess for associated neurological dysfunction and underlying etiology.
+
+
+TERMINATE

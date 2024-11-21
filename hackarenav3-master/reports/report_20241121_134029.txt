@@ -1,0 +1,21 @@
+```text
+Disease Name: Acute Ischemic Stroke (Right PCA Infarct)
+
+1. Clinical Findings:
+
+MRI of the brain reveals a focal area of high signal intensity on T2-weighted images and restricted diffusion within the right posterior cerebral artery (PCA) territory. This wedge-shaped lesion is located in the right occipital lobe, encompassing the medial temporal gyrus.  There is no significant mass effect, edema, or hemorrhage. Grey-white matter differentiation is preserved except within the affected area. Ventricles are normal. The brainstem and cerebellum appear unremarkable.
+
+2. Impression:
+
+Acute ischemic stroke (infarct) in the right PCA territory affecting the right occipital lobe, specifically the medial temporal gyrus.  The findings are consistent with a vascular infarct due to compromised blood flow in the right PCA.
+
+3. Recommendations:
+
+Further clinical evaluation and neurological examination are necessary to assess the patient's neurological deficits.  Appropriate management, including potential thrombolytic therapy (if indicated within the therapeutic window), supportive care, and secondary stroke prevention strategies, should be implemented by a qualified healthcare professional.  Follow-up imaging may be necessary to monitor lesion evolution and assess treatment response.
+
+4. Summary:
+
+Neuroimaging demonstrates a right occipital lobe infarct within the PCA territory, characterized by high T2 signal intensity and restricted diffusion.  Clinical correlation is crucial to guide management and determine the extent of neurological compromise.  This acute ischemic event requires immediate medical intervention.
+```
+
+TERMINATE

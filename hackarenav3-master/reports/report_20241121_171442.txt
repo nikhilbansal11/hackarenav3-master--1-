@@ -1,0 +1,19 @@
+**Disease Name:** Suspected Chronic Subdural Hematoma (CSDH)
+
+**1. Clinical Findings:**
+
+Non-contrast CT scan reveals two large, bilateral hyperdense lesions in the right and left parietal lobes.  Lesions are well-circumscribed, relatively homogenous, and consistent with hemorrhage.  No significant mass effect, edema, midline shift, or abnormalities in ventricles, subarachnoid space, or skull are observed.  The remaining brain parenchyma appears normal.
+
+**2. Impression:**
+
+The imaging findings strongly suggest chronic subdural hematomas.  The bilateral location, hyperdensity, well-circumscribed nature, and absence of mass effect support this diagnosis.  However, other intracranial hemorrhages or space-occupying lesions cannot be definitively excluded based solely on CT findings.
+
+**3. Recommendations:**
+
+Further clinical correlation with the patient's symptoms and history is crucial.  An MRI scan is recommended to further characterize the lesions and rule out alternative diagnoses.  Close clinical follow-up is necessary to monitor for any neurological changes or complications.
+
+**4. Summary:**
+
+Bilateral parietal lobe hyperdense lesions, consistent with chronic subdural hematomas, are identified on CT.  Further evaluation with MRI and clinical correlation is indicated to confirm diagnosis and guide management.  Absence of acute findings necessitates ongoing clinical surveillance.
+
+TERMINATE

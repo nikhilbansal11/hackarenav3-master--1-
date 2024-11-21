@@ -1,0 +1,36 @@
+Here's a formal medical report based on the provided CT Head report:
+
+
+**Formal Medical Report**
+
+**Patient Name:** [Patient Name]
+**Patient ID:** [Patient ID]
+**Date of Exam:** [Date]
+**Referring Physician:** [Referring Physician]
+
+
+**1. Clinical Findings:**
+
+A large, heterogeneously hypodense extra-axial mass is identified in the right posterior fossa, measuring approximately [Measurements of mass, e.g., 4 x 5 x 6 cm]. This mass demonstrates both cystic and solid components and exerts significant mass effect on the right cerebellar hemisphere, causing sulcal effacement and mild midline shift to the left.  Compression of the fourth ventricle is also noted.
+
+
+**2. Impression:**
+
+The imaging findings are highly suggestive of a large right cerebellar extra-axial mass.  Differential diagnoses include meningioma, metastasis, abscess, or other mass lesions.
+
+
+**3. Recommendations:**
+
+*   MRI of the brain with contrast is recommended for improved characterization of the lesion, including assessment of vascularity and surrounding tissue involvement.
+*   Surgical consultation is advised for appropriate management of the lesion.
+*   Clinical correlation with the patient's history and neurological examination is essential.
+
+
+**4. Summary:**
+
+A large, heterogeneously enhancing right cerebellar extra-axial mass is observed, causing significant mass effect with sulcal effacement, midline shift, and fourth ventricle compression.  The differential diagnosis is broad, including various neoplastic and non-neoplastic lesions. Further imaging and surgical consultation are recommended.
+
+
+**Disclaimer:** This report is generated based on the provided image analysis text. It is not a substitute for a professional medical diagnosis. A qualified radiologist or physician should review the image and this report, along with the patient's medical history, to arrive at a proper diagnosis and treatment plan.
+
+TERMINATE

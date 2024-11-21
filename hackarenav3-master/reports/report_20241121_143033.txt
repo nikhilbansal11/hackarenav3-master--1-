@@ -1,0 +1,48 @@
+```python
+# filename: medical_report_generator.py
+
+def generate_medical_report(diagnosis_data):
+    """Generates a formal medical report based on provided diagnosis data."""
+
+    report = f"""Disease Name: Acute Ischemic Stroke
+
+1. Clinical Findings:
+   - Neuroimaging (MRI) reveals a hyperintense lesion in the left posterior cerebral hemisphere, primarily affecting the parietal lobe.
+   - The lesion exhibits high signal intensity on T2-weighted images, consistent with edema associated with acute ischemic injury.
+   - Surrounding edema is present.  No significant mass effect or distortion of surrounding brain structures.
+   - Ventricles appear normal.
+   - White matter shows abnormal high signal intensity; grey matter shows relatively normal signal with signs of edema.
+   - Lesion location suggests involvement of the posterior cerebral artery territory.
+
+2. Impression:
+   - The most likely diagnosis is an acute ischemic stroke in the left parietal lobe.  This is supported by the hyperintense lesion on T2-weighted images, the lesion's location, the absence of mass effect, and the presence of edema.  Less likely possibilities, such as demyelinating lesion or small hemorrhage, are considered but deemed less probable based on imaging features.
+
+3. Recommendations:
+   - Neurology consultation.
+   - Further investigation with contrast-enhanced MRI to rule out other possibilities.
+   - Investigation into possible sources of emboli (e.g., cardiac issues).
+
+4. Summary:
+   MRI demonstrates a hyperintense lesion in the left parietal lobe consistent with acute ischemic stroke.  Edema and involvement of the posterior cerebral artery territory are noted.  Further clinical correlation and investigations are recommended for definitive diagnosis and management.
+"""
+    return report
+
+diagnosis_data = {
+    "diagnosis": "Acute Ischemic Stroke",
+    "findings": "MRI reveals hyperintense lesion in left posterior parietal lobe with edema, consistent with acute ischemic injury. No mass effect. Posterior cerebral artery territory implicated.",
+    "impression": "Acute ischemic stroke most likely. Less likely possibilities considered but deemed less probable.",
+    "recommendations": "Neurology consult, contrast-enhanced MRI, investigation of emboli sources.",
+    "summary": "MRI shows hyperintense lesion in left parietal lobe consistent with acute ischemic stroke; edema and posterior cerebral artery territory involvement noted; further investigation and clinical correlation are recommended."
+
+}
+
+report = generate_medical_report(diagnosis_data)
+print(report)
+
+```
+
+```bash
+python medical_report_generator.py
+```
+
+TERMINATE

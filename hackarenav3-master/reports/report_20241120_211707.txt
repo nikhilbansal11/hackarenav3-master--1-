@@ -1,0 +1,25 @@
+Since I cannot access or process real medical reports due to patient privacy concerns, I will generate a *sample* formal medical report based on the previously described sample neuroimaging report.  Remember, this is for illustrative purposes only and should not be used for actual clinical diagnosis.  A qualified physician must interpret medical images and generate a real medical report.
+
+
+**Sample Formal Medical Report**
+
+**1. Clinical Findings:**
+
+*   Neuroimaging (MRI):  Demonstrates increased signal intensity on T2-weighted images within the right internal capsule, consistent with acute ischemic changes. No significant mass effect or edema is observed.
+
+**2. Impression:**
+
+*   Acute ischemic stroke affecting the right internal capsule.
+
+**3. Recommendations:**
+
+*   Urgent neurological consultation for clinical assessment and management.
+*   Further investigations may be indicated, including blood tests (e.g., complete blood count, coagulation studies) and possibly additional imaging studies (e.g., CT perfusion).
+*   Initiation of appropriate stroke therapy as per current clinical guidelines (e.g., thrombolysis if indicated and within the therapeutic window).
+
+**4. Summary:**
+
+MRI findings reveal acute ischemic infarction within the right internal capsule, suggestive of an acute cerebrovascular event.  Urgent clinical evaluation and management are warranted to mitigate neurological deficits and optimize patient outcome.
+
+
+TERMINATE

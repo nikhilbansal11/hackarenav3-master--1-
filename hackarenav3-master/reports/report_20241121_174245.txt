@@ -1,0 +1,20 @@
+**Disease Name:** Acute Epidural Hematoma (EDH)
+
+**1. Clinical Findings:**
+
+Head CT scan reveals a large acute epidural hematoma in the right parietal region. The hematoma is hyperdense, indicating acute bleeding. Significant mass effect is present, with midline shift to the left and compression of the underlying brain parenchyma.  The ventricles are symmetric and of normal size. No other intracranial hemorrhages, edema, or skull fractures are observed.  Subarachnoid spaces and orbits appear unremarkable.  (Quantitative data regarding hematoma size and midline shift are missing from the source information and are crucial for complete assessment.)
+
+**2. Impression:**
+
+Acute epidural hematoma (EDH) in the right parietal region causing significant mass effect and midline shift.  The findings are consistent with a surgically emergent condition requiring immediate neurosurgical intervention.
+
+**3. Recommendations:**
+
+Immediate neurosurgical consultation and intervention are recommended to evacuate the hematoma and relieve the intracranial pressure.  Further neurological assessment and monitoring are necessary to assess the extent of neurological deficits and guide post-operative care.
+
+**4. Summary:**
+
+Neuroimaging demonstrates a large, hyperdense right parietal EDH with significant mass effect and midline shift, necessitating urgent neurosurgical decompression to mitigate potentially life-threatening intracranial hypertension and neurological compromise.  Absence of additional intracranial pathology simplifies the diagnostic and therapeutic approach.
+
+
+TERMINATE

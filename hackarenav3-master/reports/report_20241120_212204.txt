@@ -1,0 +1,18 @@
+0. **Disease Name:** Right-sided Epidural Hematoma secondary to Depressed Skull Fracture
+
+1. **Clinical Findings:**
+
+* **Neuroimaging:** Non-contrast CT Head scan reveals a large, irregularly shaped right parietal depressed skull fracture.  A significant right-sided epidural hematoma is present, exhibiting considerable mass effect with midline shift to the left.  There is evidence of parenchymal edema in the right parietal lobe, with compression of the grey and white matter and slight compression and shifting of the lateral ventricles.  A component of subarachnoid hemorrhage is also noted.  The left hemisphere appears normal.
+
+2. **Impression:**
+
+Severe traumatic brain injury secondary to a right-sided epidural hematoma caused by a depressed skull fracture. This constitutes a neurosurgical emergency requiring immediate intervention.  Increased intracranial pressure is evident due to the mass effect of the hematoma.
+
+3. **Recommendations:**
+
+Immediate neurosurgical consultation and surgical intervention are urgently required to evacuate the hematoma, address the depressed skull fracture, and alleviate the increased intracranial pressure.  Close neurological monitoring is necessary.  Further investigations may be indicated post-operatively to assess the extent of neurological damage.
+
+
+4. **Summary:**  Non-contrast CT demonstrates a large right-sided epidural hematoma with significant mass effect and midline shift secondary to a depressed parietal skull fracture, representing a neurosurgical emergency requiring immediate surgical decompression.  Parenchymal edema and compression of adjacent brain structures are evident.
+
+TERMINATE

@@ -1,0 +1,23 @@
+**Disease Name:** Bilateral Parenchymal Hemorrhage
+
+**1. Clinical Findings:**
+
+* **Neuroimaging (NCCT):** Bilateral, symmetrical hyperdense lesions in the parietal lobes, sharply defined and lenticular in shape. Significant mass effect with compression of surrounding brain parenchyma. Edema present in gray and white matter surrounding hemorrhages. Mild ventricular compression indicating increased intracranial pressure. Absence of midline shift and skull fracture.
+
+**2. Impression:**
+
+The most likely diagnosis is bilateral parenchymal hemorrhage.  The imaging findings are highly suggestive of extravasated blood within the bilateral parietal lobes.  While less likely, intracranial neoplasm with hemorrhage, vascular malformation (e.g., arteriovenous malformation), and occult trauma resulting in hemorrhage remain in the differential diagnosis and warrant further investigation.
+
+**3. Recommendations:**
+
+* Immediate neurological consultation.
+* Further imaging studies, including MRI of the brain to rule out neoplasm and better delineate the extent of the hemorrhage.
+* Cerebral angiography to evaluate for vascular malformation.
+* Thorough patient history focusing on any recent trauma, however minor.
+* Close neurological monitoring for changes in neurological status and intracranial pressure.
+
+**4. Summary:**
+
+NCCT demonstrates bilateral parietal lobe parenchymal hemorrhages with significant mass effect and mild ventricular compression.  Further investigation is warranted to exclude alternative diagnoses, including neoplasm and vascular malformation.  Clinical correlation and neurological follow-up are essential.
+
+TERMINATE

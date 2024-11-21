@@ -1,0 +1,25 @@
+**Traumatic Brain Injury (Right Parietal Lobe)**
+
+**1. Clinical Findings:**
+
+*   **Neuroimaging (CT Head):**  Comparison of two CT head scans reveals a significant difference.  The initial scan (Image 1) shows normal brain parenchyma, symmetrical grey and white matter, normal ventricles, and the absence of intracranial hemorrhages, edema, or mass lesions. The subsequent scan (Image 2) demonstrates a large, irregularly shaped hyperdense lesion in the right parietal lobe with mixed density, suggesting hemorrhage and contusion.  Surrounding edema is present, causing mass effect with minimal midline shift.  The lesion disrupts normal grey-white matter differentiation in the affected region, and the ventricles exhibit slight displacement due to mass effect.
+
+**2. Impression:**
+
+The imaging findings strongly suggest a traumatic brain injury (TBI) involving the right parietal lobe.  The lesion characteristics are highly indicative of a right parietal epidural or subdural hematoma, possibly in conjunction with a contusion. The severity is indicated by the lesion size, edema, and mass effect.  The temporal difference between the two scans points to a recent event.  Further clinical assessment and potentially neurosurgical consultation are necessary to determine the precise hematoma type and plan appropriate management.
+
+
+**3. Recommendations:**
+
+*   Immediate neurosurgical consultation for evaluation and potential intervention.
+*   Continuous neurological monitoring to assess the patient's clinical status and detect any worsening of symptoms.
+*   Further diagnostic testing as clinically indicated (e.g.,  MRI for more detailed tissue characterization).
+*   Management of intracranial pressure as needed.
+*   Supportive care including pain management and monitoring for complications.
+
+**4. Summary:**
+
+CT imaging demonstrates a right parietal lobe traumatic brain injury characterized by a mixed density hyperdense lesion, consistent with a hematoma and contusion, causing significant edema and mass effect.  Urgent neurosurgical evaluation is warranted to determine the specific type of hematoma and plan appropriate management, given the lesion's size and potential for increased intracranial pressure.
+
+
+TERMINATE

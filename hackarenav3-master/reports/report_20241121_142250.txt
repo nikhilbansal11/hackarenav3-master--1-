@@ -1,0 +1,28 @@
+**Medical Report**
+
+**Patient Name:** [Patient Name]
+**Patient ID:** [Patient ID]
+**Date of Examination:** [Date]
+
+
+**1. Clinical Findings:**
+
+Axial and sagittal T2-weighted brain MRI demonstrated a focal area of high signal intensity in the left posterior temporal lobe, extending to the adjacent left inferior parietal lobe. This lesion was hypointense on T1-weighted images (not shown), well-circumscribed, and without significant mass effect, edema, or hemorrhage.  The abnormality is consistent with acute ischemic infarction.
+
+
+**2. Impression:**
+
+Acute ischemic stroke involving the left posterior temporal and inferior parietal lobes.
+
+
+**3. Recommendations:**
+
+*   Further imaging studies:  MR angiography (MRA) or CT angiography (CTA) to evaluate the vascular etiology of the infarct.
+*   Clinical correlation:  Close monitoring of neurological symptoms and function by a neurologist.  Assessment of residual or chronic deficits.
+
+
+**4. Summary:**
+
+Brain MRI reveals an acute ischemic infarct in the left posterior temporal and inferior parietal lobes, characterized by a focal area of high signal intensity on T2-weighted images.  The absence of mass effect supports this diagnosis.  Further investigation is warranted to determine the underlying vascular cause.
+
+TERMINATE

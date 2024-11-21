@@ -1,0 +1,29 @@
+**Formal Medical Report**
+
+**Patient Name:** [Patient Name]
+**Patient ID:** [Patient ID]
+**Date of Examination:** [Date]
+
+**1. Clinical Findings:**
+
+Axial non-contrast CT of the brain reveals a large, heterogeneous, hyperdense extra-axial mass in the right posterior fossa. This mass demonstrates significant mass effect, causing compression of the right cerebellar hemisphere and brainstem, with resultant midline shift of the brainstem to the left.  Surrounding edema is present in the right cerebellar hemisphere, and the ventricles are compressed and displaced to the left.
+
+
+**2. Impression:**
+
+The imaging findings are highly suggestive of a large space-occupying lesion in the right posterior fossa, most likely a neoplasm (tumor).  Differential diagnoses include meningioma, metastasis, or other space-occupying lesions.  Further investigation is required to confirm the diagnosis.
+
+
+**3. Recommendations:**
+
+* Urgent neurosurgical consultation is recommended for further evaluation and management.
+*  Consideration should be given to MRI of the brain with and without contrast for further characterization of the lesion and assessment of its extent.
+*  Biopsy may be necessary to obtain a definitive histopathological diagnosis.
+
+
+**4. Summary:**
+
+CT demonstrates a large, space-occupying right posterior fossa mass with significant mass effect, causing brainstem and cerebellar compression, midline shift, and surrounding edema, highly suggestive of a neoplasm.  Urgent neurosurgical intervention is warranted.
+
+
+TERMINATE
